@@ -28,6 +28,7 @@
 - [ ] [Bodie's Investments, 10th Edition](14.pdf)
 - [ ] [Hull J.C.-Options, Futures and Other Derivatives_9th edition](15.pdf)
 - [x] [Artificial Intelligence in Finance](24.pdf): [code for book](https://github.com/yhilpisch/aiif)
+- [ ] [**ML for Trading - 2nd Edition**](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 ## Interview
 - [x] [A practical guide of qunat interview](1.pdf)
